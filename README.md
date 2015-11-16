@@ -1,7 +1,7 @@
 # red5-Publisher
 this is red5 Publisher Flex Demo
 
-
+![image](https://github.com/lockbur/red5-Publisher/blob/master/screenshots/publisher-flex-demo.jpg)
 why too simple
 ===========
 
